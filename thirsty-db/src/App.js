@@ -9,6 +9,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <p>
+          Login in here. Then, let's check out two pages- a map and a submission page.
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
